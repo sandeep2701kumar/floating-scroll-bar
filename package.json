@@ -1,0 +1,25 @@
+{
+  "name": "sandeep-floating-scrollbar",
+  "version": "1.1.4",
+  "description": "floating scroll bar ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandeep2701kumar/floating-scroll-bar.git"
+  },
+  "keywords": [
+    "scroll",
+    "bar",
+    "floating",
+    "horizontal"
+  ],
+  "author": "sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "global-offset": "^0.1.7",
+    "resize-event": "^1.2.1"
+  }
+}
