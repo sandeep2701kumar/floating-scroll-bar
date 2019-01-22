@@ -1,4 +1,4 @@
-# Typescript and Javascript Logger
+# Floating-scroll-bar
 
 Javascript Logger Nodejs package that works with both ES5 and ES6
 
